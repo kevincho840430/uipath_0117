@@ -6,3 +6,5 @@ https://paperswithcode.com/task/image-clustering
 
 https://github.com/ElieAljalbout/Clustering-with-Deep-learning
 https://github.com/mdeff/cnn_graph
+https://towardsdatascience.com/kmeans-hyper-parameters-explained-with-examples-c93505820cd3
+https://github.com/rasbt/pattern_classification
